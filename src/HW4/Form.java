@@ -1,5 +1,5 @@
 package HW4;
-
+// Очень не нравится интерфейс Swing'а. В будущем планирую использовать FX
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
